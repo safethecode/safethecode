@@ -1,9 +1,3 @@
-# Aloha, There 🙌
-
-<div style="padding: 20px; width: 600px; height: 22px; background-color: #C8C8C8; border-radius: 4px;">
-<span style="color: #ffffff;"><b>👉</b>미래와 기술이 발전될 수 있도록 능동적으로 활동하는 사람이 되고자 <a href="https://www.github.com/0xbono/">@손지민</a>입니다<b>👈</b></span>
-</div>
-
 ## 👉 I attend the following schools
 
 <div style="margin-top: 20px">
@@ -30,7 +24,6 @@
     </div>
 </div>
 <br>
-
 <div>
     <img align="left" alt="비긴메이트" width="70px" src="https://user-images.githubusercontent.com/59228569/88084789-e175b080-cbbf-11ea-9f16-b070efd79a98.png" />
     <div style="width: 500px; margin-left: 100px;" >
@@ -41,3 +34,13 @@
         <span id="description" style="color: #C8C8C8">2019년 08월 ~ 2019년 11월<span>
     </div>
 <div>
+
+## 👉 I can handle the following skills
+
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
