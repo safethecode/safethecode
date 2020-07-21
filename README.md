@@ -1,4 +1,4 @@
-<img align="left" alt="오늘의 꽃" width="1000px" src="https://user-images.githubusercontent.com/59228569/88088884-15ec6b00-cbc6-11ea-83fc-99175d6800a0.png" />
+<img align="left" alt="오늘의 꽃" width="650px" src="https://user-images.githubusercontent.com/59228569/88090167-24d41d00-cbc8-11ea-98f4-94ec1896d369.png" />
 <br>
 
 ## 👉 I attend the following schools
