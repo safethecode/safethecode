@@ -29,7 +29,9 @@
         <span id="description" style="color: #C8C8C8">2020년 07월 ~ 현재<span>
     </div>
 </div>
-<div style="margin-top: 50px">
+<br>
+
+<div>
     <img align="left" alt="비긴메이트" width="70px" src="https://user-images.githubusercontent.com/59228569/88084789-e175b080-cbbf-11ea-9f16-b070efd79a98.png" />
     <div style="width: 500px; margin-left: 100px;" >
         <span id="title"><b>비긴메이트 <a href="https://beginmate.com">🔗</a></b></span>
