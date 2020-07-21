@@ -1,9 +1,12 @@
+<img align="left" alt="오늘의 꽃" width="1000px" src="https://user-images.githubusercontent.com/59228569/88088884-15ec6b00-cbc6-11ea-83fc-99175d6800a0.png" />
+<br>
+
 ## 👉 I attend the following schools
 
 <div style="margin-top: 20px">
     <img align="left" alt="선린인터넷고등학교" width="70px" src="https://user-images.githubusercontent.com/59228569/88086190-e9ceeb00-cbc1-11ea-87e5-24863b2b3ef2.png" />
     <div style="margin-left: 100px" >
-        <span id="title"><b>선린인터넷고등학교 <a href="https://sunrint.hs.kr">🔗</a></b></span>
+        <span id="title"><b>선린인터넷고등학교 <a href="http://sunrint.hs.kr">🔗</a></b></span>
         <br>
         <span id="description" style="color: #C8C8C8">4차 산업혁명을 주역을 양성하는 IT 특성화 고등학교입니다.<span>
         <br>
@@ -37,10 +40,15 @@
 
 ## 👉 I can handle the following skills
 
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+<img height="70" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png">
+<img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+<img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+
+## 👉 Contact me
+<a href="https://github.com/0xbono"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
+<a href="https://facebook.com/bonolife"><img style="margin-left: 20px" alt="Facebook" title="Facebook" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg"></a>
+<a href="https://www.linkedin.com/in/jimin-son-2394381b2/"><img style="margin-left: 20px" alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
