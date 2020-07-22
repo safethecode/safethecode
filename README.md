@@ -10,7 +10,7 @@
         <br>
         <span id="description" style="color: #C8C8C8">4차 산업혁명을 주역을 양성하는 IT 특성화 고등학교입니다.<span>
         <br>
-        <span id="description" style="color: #C8C8C8">2019년 03월 ( IT경영과 ) ~ 2020년 07월 ( 멀티미디어과 )<span>
+        <span id="description" style="color: #C8C8C8">2019년 03월 ~ 2020년 07월<span>
     </div>
 </div>
 
