@@ -21,7 +21,7 @@
     <div style="margin-left: 100px" >
         <span id="title"><b>오늘의 꽃 <a href="https://okkot.com">🔗</a></b></span>
         <br>
-        <span id="description" style="color: #C8C8C8">특별한 날을 위해 필요한 꽃, 오늘의꽃에서 콜드체인 새벽배송으로 만나보세요.<span>
+        <span id="description" style="color: #C8C8C8">오늘의꽃에서 콜드체인 새벽배송으로 만나보세요.<span>
         <br>
         <span id="description" style="color: #C8C8C8">2020년 07월 ~ 현재<span>
     </div>
