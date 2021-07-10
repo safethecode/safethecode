@@ -1,4 +1,6 @@
-<img src="assets/banner.gif" alt="drawing" width="1920">
+<center>
+<img src="assets/banner.gif" alt="drawing">
+</center>
 
 ### <b> 🏫 Education </b>
 
