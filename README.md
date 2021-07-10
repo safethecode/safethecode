@@ -27,8 +27,8 @@
 ### <b> Work experience </b>
 
 <table>
-  <tr style="border: 0">
-    <td align="center" style="border: 0">
+  <tr>
+    <td align="center">
       <a href="https://kentcdodds.com">
         <img
           src="https://www.sonjim.in/assets/beginmate_logo.svg"
@@ -45,7 +45,7 @@
       <br />
       <sub> 2019년 08월 ~ 2019년 11월 </sub>
     </td>
-    <td align="center" style="border: 0">
+    <td align="center">
       <a href="https://github.com/jfmengels">
         <img
           src="https://www.sonjim.in/assets/okkot_logo.svg"
@@ -62,7 +62,7 @@
       <br />
       <sub> 2020년 07월 ~ 2020년 12월 </sub>
     </td>
-    <td align="center" style="border: 0">
+    <td align="center">
       <a href="https://jakebolam.com">
         <img
           src="https://www.sonjim.in/assets/plask_logo.svg"
