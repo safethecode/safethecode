@@ -1,3 +1,5 @@
+[![](assets/banner.gif)](https://sonjim.in)
+
 ### <b> 🏫 Education </b>
 
 <div style="margin-top: 20px; margin-bottom: 20px;">
