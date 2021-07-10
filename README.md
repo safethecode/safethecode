@@ -1,8 +1,4 @@
-<img src="assets/banner.gif" alt="drawing">
-
-<style>
-    img[alt=banner] { width: 100%; height: 100%; }
-</style>
+<img src="assets/banner.gif" alt="drawing" width="1920">
 
 ### <b> 🏫 Education </b>
 
