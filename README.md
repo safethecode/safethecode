@@ -1,4 +1,8 @@
-[![](assets/banner.gif)](https://sonjim.in)
+<img src="assets/banner.gif" alt="drawing">
+
+<style>
+    img[alt=banner] { width: 100%; height: 100%; }
+</style>
 
 ### <b> 🏫 Education </b>
 
