@@ -1,6 +1,4 @@
-<center>
-<img src="assets/banner.gif" alt="drawing">
-</center>
+[![](https://github.com/0xbono/0xbono/blob/master/banner.svg)](https://sonjim.in)
 
 ### <b> 🏫 Education </b>
 
