@@ -5,18 +5,19 @@
         .left-shape {
             opacity: 0;
             animation: wait 1.7s, left-shape-animation 1 1.7s forwards;
+            animation-delay: 1.0s;
         }
 
         .top-shape {
             opacity: 0;
             animation: wait 1.7s, top-shape-animation 1 1.7s forwards;
-            animation-delay: 1.0s;
+            animation-delay: 1.5s;
         }
 
         .right-shape {
             opacity: 0;
             animation: wait 1.7s, right-shape-animation 1 1.7s forwards;
-            animation-delay: 1.5s;
+            animation-delay: 2.0s;
         }
 
         @keyframes wait {
