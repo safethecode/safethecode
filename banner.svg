@@ -3,6 +3,7 @@
     xmlns:xlink="http://www.w3.org/1999/xlink">
     <style>
         .left-shape {
+            opacity: 0;
             animation: wait 1.7s, left-shape-animation 1 1.7s forwards;
         }
 
