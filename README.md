@@ -29,7 +29,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://kentcdodds.com">
+      <a href="https://beginmate.com">
         <img
           src="https://www.sonjim.in/assets/beginmate_logo.svg"
           width="320px;"
@@ -46,7 +46,7 @@
       <sub> 2019년 08월 ~ 2019년 11월 </sub>
     </td>
     <td align="center">
-      <a href="https://github.com/jfmengels">
+      <a href="https://okkot.com">
         <img
           src="https://www.sonjim.in/assets/okkot_logo.svg"
           width="320px;"
@@ -63,7 +63,7 @@
       <sub> 2020년 07월 ~ 2020년 12월 </sub>
     </td>
     <td align="center">
-      <a href="https://jakebolam.com">
+      <a href="https://plask.ai">
         <img
           src="https://www.sonjim.in/assets/plask_logo.svg"
           width="320px;"
