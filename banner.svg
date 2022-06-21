@@ -140,9 +140,9 @@
                 </g>
                 <g id="banner--Group" transform="translate(54.000000, 37.000000)">
                     <rect id="banner--Rectangle" fill="#10A958" x="0" y="0" width="116" height="30"></rect>
-                    <text id="banner--TypeSCript" font-family="WorkSans-Bold, Work Sans" font-size="18"
+                    <text id="banner--TypeScript" font-family="WorkSans-Bold, Work Sans" font-size="18"
                         font-weight="bold" fill="#FFFFFF">
-                        <tspan x="8.27" y="21">TypeSCript</tspan>
+                        <tspan x="8.27" y="21">TypeScript</tspan>
                     </text>
                 </g>
             </g>
