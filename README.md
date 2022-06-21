@@ -31,5 +31,5 @@
 ### <b> Work experience </b>
 
 <img
-  src="https://user-images.githubusercontent.com/59228569/174712137-253c7ace-f8ac-4128-a88a-889d23b798da.png"
+  src="https://user-images.githubusercontent.com/59228569/174714141-05da9379-0fab-47e6-bd0b-277fafc4fa3d.png"
 />
