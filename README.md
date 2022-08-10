@@ -12,6 +12,9 @@
   디자인 시스템에 관해서는 가장 관심있게 보고 있어요!
 
 - 👻 요즘은 코드를 쉽게 작성하는 방법을 고민하고 있어요.  
-  코드 또한 우리가 대화하는 것처럼 문맥이 있기 때문에 전혀 어렵게 접근할 필요가 없어요! (e.g. <a href="https://dev.to/alexi_be3/react-component-patterns-49ho">Compound Pattern</a>)
+  코드 또한 우리가 대화하는 것처럼 문맥이 있기 때문에 전혀 어렵게 접근할 필요가 없어요!  
+  (e.g. <a href="https://dev.to/alexi_be3/react-component-patterns-49ho">Compound Pattern</a>)
+
+  Recent Read :
 
 - 📫 언제든 연락주세요! : <a href="mailto:iam@sonjim.in">메일 보내기 💌</a>
