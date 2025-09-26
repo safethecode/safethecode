@@ -1,5 +1,9 @@
-[![](https://github.com/safethecode/safethecode/blob/master/assets/welcome-banner-dark.svg#gh-dark-mode-only)](https://nullk.us)
-[![](https://github.com/safethecode/safethecode/blob/master/assets/welcome-banner-light.svg#gh-light-mode-only)](https://nullk.us)
+<a href="https://nullk.us">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/welcome-banner-dark.svg">
+    <img alt="SafeTheCode Welcome Banner" src="./assets/welcome-banner-light.svg">
+  </picture>
+</a>
 
 ### <b>안녕하세요, 프론트엔드 개발자 손지민입니다</b> 👋
 
