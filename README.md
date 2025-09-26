@@ -1,4 +1,4 @@
-[![](https://github.com/0xbono/0xbono/blob/master/banner.svg)](https://sonjim.in)
+[![](https://github.com/safethecode/safethecode/blob/master/20250926-welcome-banner.svg)](https://nullk.us)
 
 ### <b>안녕하세요, 프론트엔드 개발자 손지민입니다</b> 👋
 
@@ -12,8 +12,7 @@
   디자인 시스템에 관해서는 가장 관심있게 보고 있어요!
 
 - 👻 11월 이전에는 코드를 쉽게 작성하는 방법을 고민하고 있어요.  
-  코드 또한 우리가 대화하는 것처럼 문맥이 있기 때문에 전혀 어렵게 접근할 필요가 없어요!  
-  
+  코드 또한 우리가 대화하는 것처럼 문맥이 있기 때문에 전혀 어렵게 접근할 필요가 없어요!
 - 😎 현재는 조직 문화와 사람들 간에 관계를 고민하고 있어요.  
   수평적인 문화와 그에 따른 조직에 대한 조건/문화 등을 깊이 알아보고 있어요!
 
