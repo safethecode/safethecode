@@ -1,5 +1,5 @@
-[![](https://github.com/safethecode/safethecode/blob/master/assets/welcome-banner.svg#gh-dark-mode-only)](https://nullk.us)
-[![](https://github.com/safethecode/safethecode/blob/master/assets/welcome-banner.svg#gh-light-mode-only)](https://nullk.us)
+[![](https://github.com/safethecode/safethecode/blob/master/assets/welcome-banner-dark.svg#gh-dark-mode-only)](https://nullk.us)
+[![](https://github.com/safethecode/safethecode/blob/master/assets/welcome-banner-light.svg#gh-light-mode-only)](https://nullk.us)
 
 ### <b>안녕하세요, 프론트엔드 개발자 손지민입니다</b> 👋
 
