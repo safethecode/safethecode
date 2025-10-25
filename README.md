@@ -20,3 +20,5 @@ About me:
 - **Want to know me better** — visit my website [Link 🌐](https://nullk.us)
 
 - **Contact me anytime 💌 :** <a href="mailto:sam@nullk.us">sam@nullk.us</a>
+
+> I lost all my commit history up to 2025 when I changed my email 🥲
