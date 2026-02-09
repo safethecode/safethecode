@@ -1,7 +1,7 @@
 <a href="https://nullk.us">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-    <img alt="SafeTheCode Welcome Banner" src="./assets/banner-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
+    <img alt="SafeTheCode Welcome Banner" src="./assets/banner-light.png">
   </picture>
 </a>
 
