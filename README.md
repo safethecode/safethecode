@@ -1,11 +1,12 @@
-<a href="https://nullk.us">
+<!-- <a href="https://nullk.us">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
     <img alt="SafeTheCode Welcome Banner" src="./assets/banner-light.png">
   </picture>
 </a>
 <img alt="Product Builder Badge" src="./assets/product-builder-banner.png" />
-<img alt="Product Launch" src="./assets/product-launch.png" />
+<img alt="Product Launch" src="./assets/product-launch.png" /> -->
+<img src="./assets/banner-full.svg" alt="Welcome Banner Full" />
 
 ### <b style="line-height: 36px">Welcome, I'm Jimin (Sam) Son, <br/> a Product Builder.</b> 👋
 
