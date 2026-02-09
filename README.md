@@ -4,6 +4,7 @@
     <img alt="SafeTheCode Welcome Banner" src="./assets/banner-light.png">
   </picture>
 </a>
+<img alt="Product Builder Badge" src="./assets/product-builder-banner.png" />
 
 ### <b style="line-height: 36px">Welcome, I'm Jimin (Sam) Son, <br/> a Frontend Engineer.</b> 👋
 
@@ -21,4 +22,4 @@ About me:
 
 - **Contact me anytime 💌 :** <a href="mailto:sam@nullk.us">sam@nullk.us</a>
 
-> I lost all my commit history up to 2025 when I changed my email 🥲
+<img alt="Product Builder Badge" src="https://img.shields.io/badge/Product%20Builder-Yes-brightgreen?style=flat&logo=productboard&logoColor=white"/>
